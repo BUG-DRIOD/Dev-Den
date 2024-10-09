@@ -1,0 +1,94 @@
+div{
+    background-color: #fff;
+    margin: 50px;
+    padding: 40px 20px;
+    border-style:solid;
+    display: block;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 0.5px;
+}
+
+
+h1{
+    color: black;
+}
+
+
+h2{
+    color: #666666;
+    font: 30px Arial,sans-serif,serif;
+}
+
+
+marquee{
+    background-color:black;
+    color:rgb(255, 255, 0);
+    font-family:Arial;
+    font-size: 20px;
+    margin: 40px;
+    padding:10px;
+    width:80%;
+    direction:ltr;
+    scroll-behavior:auto;
+    position: relative;
+    /* display: inline-block; */
+    transition:0.5 ease-in-out ;
+    /* animation: marque 10s linear infinite ; */
+}
+
+
+
+body{
+    background-color: whitesmoke;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+a{
+    color: rgb(115, 12, 15);
+    pointer-events: visible;
+    font-family: Arial;
+}
+
+.lol a{
+    color: blue;
+}
+
+ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    background-color:rgb(153, 7, 7) ;
+    overflow:hidden;
+    color: #fff;
+}
+
+li{
+    float:left;
+}
+
+li a{
+    display: block;
+    color: #fff;
+    text-align: center;
+    margin:14px 16px;
+    text-decoration: none;
+}
+
+li a :hover{
+    background-color: #fff;
+    color:rgb(153, 7, 7);
+}
+
+.footer-text{
+    display:flex;
+    justify-content: flex-end;
+    margin:50px;
+}
+
+.cpoyright{
+    line-height: 25px;
+    text-align: end;
+}
