@@ -1,0 +1,1 @@
+AAUE students kofa CLONE is a web app designed for students of AAUE to manage all their academic and campus-related activities. The website allow students to make payments, register courses, book accommodations, acepts admissions, checks result and access everything related to student life.
